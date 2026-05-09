@@ -1,0 +1,60 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pradeep Kumar Portfolio</title>
+</head>
+
+<body>
+
+  <header style="text-align:center; padding:20px; background:#111; color:#fff;">
+    <h1>Pradeep Kumar</h1>
+    <p>Aspiring Scrum Master | QA Enthusiast | Team Leader</p>
+  </header>
+
+  <section style="padding:20px;">
+    <h2>About Me</h2>
+    <p>
+      Motivated professional with experience in customer operations, team coordination,
+      and Agile basics. Seeking opportunities in Scrum Master and QA roles.
+    </p>
+  </section>
+
+  <section style="padding:20px;">
+    <h2>Skills</h2>
+    <ul>
+      <li>Agile & Scrum Basics</li>
+      <li>Jira</li>
+      <li>Team Coordination</li>
+      <li>QA Testing Basics</li>
+      <li>Communication Skills</li>
+    </ul>
+  </section>
+
+  <section style="padding:20px;">
+    <h2>Experience</h2>
+    <p>
+      Team Leader – Chat Process<br>
+      Managed customer support operations and team coordination.
+    </p>
+  </section>
+
+  <section style="padding:20px;">
+    <h2>Projects</h2>
+    <p>Scrum Practice Project – Sprint planning, standups, retrospectives</p>
+    <p>QA Practice – Test cases, bug reporting, validation</p>
+  </section>
+
+  <section style="padding:20px;">
+    <h2>Contact</h2>
+    <p>
+      LinkedIn: 
+      <a href="https://www.linkedin.com/in/pradeep-kumar-993369402" target="_blank">
+        My Profile
+      </a>
+    </p>
+  </section>
+
+</body>
+</html>
